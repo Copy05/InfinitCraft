@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -18,7 +21,7 @@ body, html {
 
 #canvas {
     width: 80%;
-    background-color: #e0e0e0;
+    background-color: #f0eded;
 }
 
 #sidebar {
@@ -27,7 +30,7 @@ body, html {
 }
 
 #game-icon {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "IBM Plex Sans", sans-serif;
     position: absolute;
     top: 10px;
     left: 10px;
@@ -37,9 +40,9 @@ body, html {
 }
 
 .element {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: bold;
-    font-size: 14px;
+    font-size: 15.4px;
     display: inline-block;
     padding: 5px 10px;
     background-color: rgb(250, 250, 250);
@@ -49,10 +52,13 @@ body, html {
     cursor: pointer;
 }
 
+.element:hover {
+    background-color: rgb(240, 240, 255);
+}
+
 #clean-button {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 12px;
-    font-weight: bold;
     position: absolute;
     bottom: 10px;
     left: 10px;
