@@ -1,0 +1,160 @@
+{
+    "water": {
+        "earth": "🌱 Plant",
+        "wind": "🌊 Wave",
+        "lake": "🌊​ Ocean",
+        "plant": "💧 Swamp",
+        "flower": "🌸 Lily",
+        "water": "💧 Water 2"
+    },
+    "water2":
+    {
+        "water": "💧 Splash",
+        "water2": "💧 Water 3",
+        "air": "🌊🌊 Tsunami"
+    },
+    "water3":
+    {
+        "water": "💧 Bigger Splash",
+        "water3": "💧 Water 4"
+    },
+    "splash": {
+        "earth": "💩 Mud"
+    },
+    "wave": {
+        "wave": "🌊🌊 Tsunami",
+        "earth": "🏖️ Beach"
+    },
+    "mud": {
+        "water": "🧱 Hard Mud",
+        "fire": "🧱 Clay",
+        "flower": "💩 Dirt"
+    },
+    "clay": {
+        "fire": "🧱 Brick"
+    },
+    "brick": {
+        "earth": "🧱🏠 Brick House",
+        "brick": "🧱🏛️ Wall"
+    },
+    "wall": {
+        "explosion": "🧱 Damaged Wall"
+    },
+    "fire": {
+        "water": "💨 Steam",
+        "volcano": "🔥 Lava",
+        "wind": "💨 Smoke",
+        "smoke": "🌫️ Fog",
+        "fire": "🔥 Flame"
+    },
+    "volcano": {
+        "fire": "🔥 Lava",
+        "steam": "🌋​ Erruption"
+    },
+    "lava": {
+        "water": "🗿 Obsidian"
+    },
+    "steam": {
+        "water": "💧💨 hydrogen"
+    },
+    "hydrogen": {
+        "fire": "☁️ Cloud"
+    },
+    "cloud": {
+        "water": "🌧️ Rain",
+        "fire": "🔥☁️ Burning Cloud",
+        "electricity": "🌩️ Thunderstorm"
+    },
+    "burningcloud": {
+        "thunderstorm": "🔥☁️🌩️ Intense Thunderstorm Cloud"
+    },
+    "rain": {
+        "plant": "🌸 Flower",
+        "water": "🌧️ Harder Rain"
+    },
+    "fog": {
+        "earth": "🌍🌫️ Foggy Earth"
+    },
+    "air": {
+        "fire": "💨 Smoke",
+        "air": "💨 Wind",
+        "water": "🌊 Wave",
+        "earth": "💨 Dust",
+        "wind": "💨 Tornado",
+        "cloud": "🌧️ Rain"
+    },
+    "wind": {
+        "wind": "💨 Harder Wind"
+    }, 
+    "harderwind": {
+        "harderrain": "🌩️ Thunderstorm"
+    },
+    "thunderstorm": {
+        "water": "⚡ Electricity"
+    },
+    "electricity": {
+        "fire": "💥 Explosion"
+    },
+    "explosion": {
+        "earth": "☢️ Nuke"
+    },
+    "nuke": {
+        "nuke": "☢️ Oppenheimer Nuke"
+    },
+    "oppenheimernuke": {
+        "explosion": "🌍☢️ Radioactive Earth"
+    },
+    "earth": {
+        "fire": "🌋​ Volcano",
+        "water": "🌱 Plant",
+        "wind": "💨 Dust",
+        "earth": "🏔️​ Mountain",
+        "ocean": "🏝️​ Island"
+    },
+    "plant": {
+        "plant": "🌳 Tree",
+        "leaf": "🌳 Bush"
+    },
+    "mountain": {
+        "explosion": "🏔️ Crater"
+    },
+    "crater": {
+        "explosion": "🕳️ Hole"
+    },
+    "hole": {
+        "explosion": "🕳️ Bigger Hole",
+        "hole": "🕳️ The Hole",
+        "torch": "🕳️ Cave"
+    },
+    "cave": {
+        "wood": "⛏️ Pickaxe",
+        "pickaxe": "🪨 Stone"
+    },
+    "tree": {
+        "wind": "🍃 Leaf",
+        "tree": "🌲 Forest",
+        "fire": "🏴 Dead Tree"
+    },
+    "leaf": {
+        "leaf": "🍃 Pile of Leaf"
+    }, 
+    "pileof leaf": {
+        "fire": "🔥🍃 Campfire"
+    },
+    "campfire": {
+        "water": "🪵 Wood"
+    },
+    "wood": {
+        "earth": "🏠 House",
+        "fire": "🔥 Torch"
+    },
+    "flower": {
+        "flower": "🌸 Garden"
+    },
+    "dirt": {
+        "flower": "❤️ Life"
+    },
+    "life": {
+        "water": "🧑‍🤝‍🧑 Human"
+    }
+}
