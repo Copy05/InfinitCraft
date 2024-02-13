@@ -2,7 +2,7 @@
     "water": {
         "earth": "🌱 Plant",
         "wind": "🌊 Wave",
-        "lake": "🌊​ Ocean",
+        "beach": "🌊​ Ocean",
         "plant": "💧 Swamp",
         "flower": "🌸 Lily",
         "water": "💧 Water 2"
@@ -18,12 +18,28 @@
         "water": "💧 Bigger Splash",
         "water3": "💧 Water 4"
     },
+    "water4":
+    {
+        "water4": "💧 Water 5"
+    },
+    "water5":
+    {
+        "water": "🌊 Flood",
+        "water5": "💧 Water 6"
+    },
+    "water6":
+    {
+        "water6": "💧 Water 7"
+    },
     "splash": {
         "earth": "💩 Mud"
     },
     "wave": {
         "wave": "🌊🌊 Tsunami",
         "earth": "🏖️ Beach"
+    },
+    "beach": {
+        "earth": "💩 Sand"
     },
     "mud": {
         "water": "🧱 Hard Mud",
@@ -55,7 +71,8 @@
         "water": "🗿 Obsidian"
     },
     "steam": {
-        "water": "💧💨 hydrogen"
+        "water": "💧💨 Hydrogen",
+        "electricity": "🎮 Steam"
     },
     "hydrogen": {
         "fire": "☁️ Cloud"
@@ -70,7 +87,8 @@
     },
     "rain": {
         "plant": "🌸 Flower",
-        "water": "🌧️ Harder Rain"
+        "water": "🌧️ Harder Rain",
+        "fire": "🌈 Rainbow"
     },
     "fog": {
         "earth": "🌍🌫️ Foggy Earth"
@@ -81,10 +99,12 @@
         "water": "🌊 Wave",
         "earth": "💨 Dust",
         "wind": "💨 Tornado",
-        "cloud": "🌧️ Rain"
+        "cloud": "🌧️ Rain",
+        "uranium": "☢️ Radioactivity"
     },
     "wind": {
-        "wind": "💨 Harder Wind"
+        "wind": "💨 Harder Wind",
+        "torch": "🪵 Wood"
     }, 
     "harderwind": {
         "harderrain": "🌩️ Thunderstorm"
@@ -96,27 +116,35 @@
         "fire": "💥 Explosion"
     },
     "explosion": {
-        "earth": "☢️ Nuke"
+        "earth": "☢️ Nuke",
+        "hardmud": "🧱 Half a Mud Brick"
     },
     "nuke": {
         "nuke": "☢️ Oppenheimer Nuke"
     },
     "oppenheimernuke": {
-        "explosion": "🌍☢️ Radioactive Earth"
+        "explosion": "🌍☢️ Radioactive Earth",
+        "oppenheimernuke": "☢️☢️ The Nuke"
+    },
+    "radioactiveearth": {
+        "explosion": "☢️ Radioactive Nothing",
+        "cave": "🧪 Uranium"
     },
     "earth": {
         "fire": "🌋​ Volcano",
         "water": "🌱 Plant",
         "wind": "💨 Dust",
         "earth": "🏔️​ Mountain",
-        "ocean": "🏝️​ Island"
+        "sand": "🏝️​ Island"
     },
     "plant": {
         "plant": "🌳 Tree",
         "leaf": "🌳 Bush"
     },
     "mountain": {
-        "explosion": "🏔️ Crater"
+        "explosion": "🏔️ Crater",
+        "harderrain": "🏔️💧 Wet Mountain",
+        "mountain": "🏔️🏔️ Mount Everest"
     },
     "crater": {
         "explosion": "🕳️ Hole"
@@ -145,16 +173,49 @@
         "water": "🪵 Wood"
     },
     "wood": {
-        "earth": "🏠 House",
-        "fire": "🔥 Torch"
+        "human": "🏠 House",
+        "fire": "🔥 Torch",
+        "wood": "🪵🪵 Planks"
+    },
+    "planks": {
+        "planks": "⛵ Boat",
+        "fire": "🔥🪵 Fried Planks"
+    },
+    "house": {
+        "house": "🏠 Appartement",
+        "fire": "🔥🏠 Arson"
     },
     "flower": {
         "flower": "🌸 Garden"
     },
     "dirt": {
-        "flower": "❤️ Life"
+        "flower": "❤️ Life",
+        "dirt": "💩 Pile of Dirt"
     },
     "life": {
-        "water": "🧑‍🤝‍🧑 Human"
+        "water": "🧑‍🤝‍🧑 Human",
+        "fire": "💀 Corpse",
+        "radioactivity": "👽 Radioactive Life",
+        "forest": "🐾 Animals"
+    },
+    "human": {
+        "human": "🧑‍🤝‍🧑🧑‍🤝‍🧑 Zivilisation",
+        "fire": "💀 Corpse",
+        "explosion": "💀 Gore",
+        "cave": "🐻🗿🔥 Caveman",
+        "flower": "👧 Girl",
+        "house": "👪 Family",
+        "water": "🧑‍🤝‍🧑💧 Wet Human",
+        "nuke": "😈 Dictator",
+        "boat": "👨‍✈️ Captain",
+        "dictator": "⛓️ Slave"
+    },
+    "zivilisation": {
+        "explosion": "💀 Gore",
+        "zivilisation": "🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑 Society"
+    },
+    "society": {
+        "explosion": "💀 Gore",
+        "society": "🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑 Humanity"
     }
 }
