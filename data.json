@@ -40,15 +40,37 @@
     },
     "wave": {
         "wave": "🌊🌊 Tsunami",
-        "earth": "🏖️ Beach"
+        "earth": "🏖️ Beach",
+        "plant": "🌊🌱 Seaweed"
+    },
+    "seaweed": {
+        "seaweed": "🐠 Coral"
     },
     "beach": {
         "earth": "💩 Sand"
     },
+    "ocean": {
+        "ocean": "🌊 Sea"
+    },
+    "sand": {
+        "fire": "🧊​ Glass"
+    },
+    "glass": {
+        "water": "🥛 Water Glass",
+        "glass": "🪟 Window"
+    },
+    "swamp": {
+        "earth": "💩 Mud"
+    },
     "mud": {
         "water": "🧱 Hard Mud",
         "fire": "🧱 Clay",
-        "flower": "💩 Dirt"
+        "flower": "💩 Dirt",
+        "farmer": "💩 Farmland"
+    },
+    "farmland": {
+        "tractor": "​​🥔 Potato",
+        "plant": "🥕 Vegetables"
     },
     "clay": {
         "fire": "🧱 Brick"
@@ -77,7 +99,11 @@
     },
     "steam": {
         "water": "💧💨 Hydrogen",
-        "electricity": "🎮 Steam"
+        "electricity": "🎮 Steam",
+        "fire": "🏎️​ Engine"
+    },
+    "engine": {
+        "mud": "🚜 Tractor"
     },
     "hydrogen": {
         "fire": "☁️ Cloud"
@@ -97,6 +123,10 @@
     },
     "fog": {
         "earth": "🌍🌫️ Foggy Earth"
+    },
+    "foggyearth": {
+        "fog": "🌍🌫️🌫️ Unclear Earth",
+        "water": "🌍🌫️ Steam Earth"
     },
     "air": {
         "fire": "💨 Smoke",
@@ -118,11 +148,14 @@
         "water": "⚡ Electricity"
     },
     "electricity": {
-        "fire": "💥 Explosion"
+        "fire": "💥 Explosion",
+        "electricity": "💡​ Light"
     },
     "explosion": {
         "earth": "☢️ Nuke",
-        "hardmud": "🧱 Half a Mud Brick"
+        "hardmud": "🧱 Half a Mud Brick",
+        "explosion": "💥💥 Bigger Explosion",
+        "glass": "🪟 Glass Shards"
     },
     "nuke": {
         "nuke": "☢️ Oppenheimer Nuke"
@@ -141,11 +174,35 @@
         "water": "🌱 Plant",
         "wind": "💨 Dust",
         "earth": "🏔️​ Mountain",
-        "sand": "🏝️​ Island"
+        "sand": "🏝️​ Island",
+        "ocean": "🏝️​ Island"
+    },
+    "island": {
+        "rich": "🏝️🌸 Hawaii",
+        "island": "🌍 Continent"
+    },
+    "continent": {
+        "ocean": "🇺🇸​ America"
+    },
+    "america": {
+        "mud": "​🤵​ Trump",
+        "island": "🏝️🌸 Hawaii",
+        "continent": "🌍 North America",
+        "swamp": "🐸 Shrek"
+    },
+    "trump": {
+        "wall": "🧱🏛️ Mexican Wall",
+        "house": "🏛️ The White House"
+    },
+    "thewhite house": {
+        "explosion": "😈⛓️ Dictatorship"
     },
     "plant": {
         "plant": "🌳 Tree",
         "leaf": "🌳 Bush"
+    },
+    "bush": {
+        "bush": "🌳 Hedge"
     },
     "mountain": {
         "explosion": "🏔️ Crater",
@@ -163,7 +220,8 @@
     },
     "cave": {
         "wood": "⛏️ Pickaxe",
-        "pickaxe": "🪨 Stone"
+        "pickaxe": "🪨 Stone",
+        "explosion": "💛 Valueables"
     },
     "stone": {
         "water": "💧🪨 Wet Stone",
@@ -177,8 +235,18 @@
         "gold": "​💛​💛 Gold Bar",
         "money": "💰​ Rich"
     },
+    "rich": {
+        "rich": "💰​ Richer"
+    },
+    "richer": {
+        "richer": "💰​ Richest"
+    },
+    "richest": {
+        "richest": "🤵🏻​​ Richard"
+    },
     "goldbar": {
-        "gold": "​💵​ Money"
+        "gold": "​💵​ Money",
+        "goldbar": "👑​ Midas"
     },
     "money": {
         "gold": "​💵​ Moneier"
@@ -188,9 +256,14 @@
         "tree": "🌲 Forest",
         "fire": "🏴 Dead Tree"
     },
+    "forest": {
+        "animals": "🐾 Wildlife",
+        "forest": "🌴​ Jungle"
+    },
     "leaf": {
         "leaf": "🍃 Pile of Leaf",
-        "water": "💧🍃 Wet Leaf"
+        "water": "💧🍃 Wet Leaf",
+        "fire": "🔥🍃 Burned Leaf"
     }, 
     "pileof leaf": {
         "fire": "🔥🍃 Campfire"
@@ -201,10 +274,22 @@
     "wood": {
         "human": "🏠 House",
         "fire": "🔥 Torch",
-        "wood": "🪵🪵 Planks"
+        "wood": "🪵🪵 Planks",
+        "glassshards": "🔱 Spear"
+    },
+    "spear": {
+        "human": "💀 Murder",
+        "fish": "🐟 Fish Food" 
+    },
+    "fish": {
+        "fire": "🍣​ Sushi",
+        "gold": "🐠​ Goldfish"
+    },
+    "fishfood": {
+        "fire": "🐟 Cooked Fish"
     },
     "planks": {
-        "planks": "⛵ Boat",
+        "ocean": "⛵ Boat",
         "fire": "🔥🪵 Fried Planks"
     },
     "house": {
@@ -212,7 +297,8 @@
         "fire": "🔥🏠 Arson"
     },
     "flower": {
-        "flower": "🌸 Garden"
+        "flower": "🌸 Garden",
+        "fire": "🏴 Burned Flower"
     },
     "dirt": {
         "flower": "❤️ Life",
@@ -223,10 +309,17 @@
         "fire": "💀 Corpse",
         "radioactivity": "👽 Radioactive Life",
         "forest": "🐾 Animals",
-        "life": "❤️ Living Life"
+        "life": "❤️ Living Life",
+        "ocean": "🐟 Fish"
+    },
+    "animals": {
+        "spear": "🥩​ Meat"
     },
     "livinglife": {
         "livinglife": "❤️ The Life"
+    },
+    "thelife":{
+        "fire": "💔​ The Dead Life"
     },
     "human": {
         "human": "🧑‍🤝‍🧑🧑‍🤝‍🧑 Zivilisation",
@@ -239,11 +332,31 @@
         "nuke": "😈 Dictator",
         "boat": "👨‍✈️ Captain",
         "dictator": "⛓️ Slave",
-        "goldbar": "🧑‍🤝‍🧑💛 Millionare"
+        "goldbar": "🧑‍🤝‍🧑💛 Millionare",
+        "tractor": "🚜 Farmer"
+    },
+    "farmer": {
+        "farmer": "🏡 Village"
+    },
+    "village": {
+        "village": "🏘️ Town"
+    },
+    "town": {
+        "town": "🏙️ City"
+    },
+    "city": {
+        "city": "🌆 Metropolis"
+    },
+    "metropolis": {
+        "america": "🌆 New York"
+    },
+    "newyork": {
+        "explosion": "🏙️💥 9 11"
     },
     "girl": {
         "girl": "👧👧 Girls",
-        "life": "❤️ Reproduction"
+        "life": "❤️ Reproduction",
+        "family": "👧 Sister"
     }, 
     "caveman": {
         "animals": "🥩​ Meat"
