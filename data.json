@@ -37,6 +37,10 @@
     {
         "water7": "💧 Water 8"
     },
+    "water8":
+    {
+        "water8": "💧 Water 9"
+    },
     "splash": {
         "earth": "💩 Mud"
     },
@@ -92,6 +96,9 @@
         "smoke": "🌫️ Fog",
         "fire": "🔥 Flame"
     },
+    "flame": {
+        "water": "💧 Extinguished Flame"
+    },
     "volcano": {
         "fire": "🔥 Lava",
         "steam": "🌋​ Erruption",
@@ -122,7 +129,8 @@
     "rain": {
         "plant": "🌸 Flower",
         "water": "🌧️ Harder Rain",
-        "fire": "🌈 Rainbow"
+        "fire": "🌈 Rainbow",
+        "amazon": "📦🌲🌧️ Amazon Rain Forest"
     },
     "fog": {
         "earth": "🌍🌫️ Foggy Earth"
@@ -262,7 +270,9 @@
     },
     "forest": {
         "animals": "🐾 Wildlife",
-        "forest": "🌴​ Jungle"
+        "forest": "🌴​ Jungle",
+        "rich": "📦 Amazon",
+        "fire": "🔥🏴 Burned Forest"
     },
     "leaf": {
         "leaf": "🍃 Pile of Leaf",
@@ -279,7 +289,17 @@
         "human": "🏠 House",
         "fire": "🔥 Torch",
         "wood": "🪵🪵 Planks",
-        "glassshards": "🔱 Spear"
+        "glassshards": "🔱 Spear",
+        "water": "📃 Paper"
+    },
+    "paper": {
+        "paper": "​📔 Book"
+    },
+    "book": {
+        "book": "📚 Library"
+    },
+    "library": {
+        "electricity": "📚​🌐​​ Wikipedia"
     },
     "spear": {
         "human": "💀 Murder",
@@ -303,7 +323,8 @@
     },
     "flower": {
         "flower": "🌸 Garden",
-        "fire": "🏴 Burned Flower"
+        "fire": "🏴 Burned Flower",
+        "love": "🌹 Rose"
     },
     "dirt": {
         "flower": "❤️ Life",
@@ -340,7 +361,9 @@
         "goldbar": "🧑‍🤝‍🧑💛 Millionare",
         "tractor": "🚜 Farmer",
         "sickness": "🤢🧑‍🤝‍🧑​ Sick Human",
-        "mountain": "🥾 Hiking"
+        "mountain": "🥾 Hiking",
+        "meat": "👦​ Boy",
+        "book": "💡 Knowledge"
     },
     "farmer": {
         "farmer": "🏡 Village"
@@ -358,13 +381,29 @@
         "america": "🌆 New York"
     },
     "newyork": {
-        "explosion": "🏙️💥 The 9-11"
+        "explosion": "🏙️💥 The 9-11",
+        "newyork": "🌆 New New York"
     },
     "girl": {
         "girl": "👧👧 Girls",
         "life": "❤️ Reproduction",
-        "family": "👧 Sister"
-    }, 
+        "family": "👧 Sister",
+        "boy": "❤️​ Love"
+    },
+    "sister": {
+        "brother": "💑​ Siblings"
+    },
+    "boy": {
+        "family": "👦​​ Brother",
+        "boy": "👦👦 Boys",
+        "girl": "❤️​ Love"
+    },
+    "brother": {
+        "sister": "💑​ Siblings"
+    },
+    "siblings": {
+        "love": "👩‍❤️‍💋‍👨 Incest"
+    },
     "caveman": {
         "animals": "🥩​ Meat",
         "spear": "🧔🏽​🔪 Hunter"
@@ -375,7 +414,8 @@
         "water": "💧🥩 Wet Meat"
     },
     "corpse": {
-        "fire": "🌫️​ Ash"
+        "fire": "🌫️​ Ash",
+        "stone": "🦴 Fossil"
     },
     "zivilisation": {
         "explosion": "💀 Gore",
@@ -388,5 +428,11 @@
     "humanity": {
         "explosion": "💀 Gore",
         "humanity": "🧑‍🤝‍🧑 Generation"
+    },
+    "knowledge": {
+        "knowledge": "🧠 Wisdom"
+    },
+    "love": {
+        "money": "🏴​ Bad Influence"
     }
 }
