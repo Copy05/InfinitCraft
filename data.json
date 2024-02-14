@@ -11,7 +11,9 @@
     {
         "water": "💧 Splash",
         "water2": "💧 Water 3",
-        "air": "🌊🌊 Tsunami"
+        "air": "🌊🌊 Tsunami",
+        "fire": "💧 Extinguished Flame",
+        "human": "🤢​ Sickness"
     },
     "water3":
     {
@@ -47,7 +49,8 @@
         "seaweed": "🐠 Coral"
     },
     "beach": {
-        "earth": "💩 Sand"
+        "earth": "💩 Sand",
+        "sand": "🏖️ Sandcastle"
     },
     "ocean": {
         "ocean": "🌊 Sea"
@@ -233,7 +236,8 @@
     },
     "gold": {
         "gold": "​💛​💛 Gold Bar",
-        "money": "💰​ Rich"
+        "money": "💰​ Rich",
+        "boat": "🛳️ Ship"
     },
     "rich": {
         "rich": "💰​ Richer"
@@ -294,7 +298,8 @@
     },
     "house": {
         "house": "🏠 Appartement",
-        "fire": "🔥🏠 Arson"
+        "fire": "🔥🏠 Arson",
+        "light": "💡 Lightbulb"
     },
     "flower": {
         "flower": "🌸 Garden",
@@ -333,7 +338,9 @@
         "boat": "👨‍✈️ Captain",
         "dictator": "⛓️ Slave",
         "goldbar": "🧑‍🤝‍🧑💛 Millionare",
-        "tractor": "🚜 Farmer"
+        "tractor": "🚜 Farmer",
+        "sickness": "🤢🧑‍🤝‍🧑​ Sick Human",
+        "mountain": "🥾 Hiking"
     },
     "farmer": {
         "farmer": "🏡 Village"
@@ -351,7 +358,7 @@
         "america": "🌆 New York"
     },
     "newyork": {
-        "explosion": "🏙️💥 9 11"
+        "explosion": "🏙️💥 The 9-11"
     },
     "girl": {
         "girl": "👧👧 Girls",
@@ -359,7 +366,8 @@
         "family": "👧 Sister"
     }, 
     "caveman": {
-        "animals": "🥩​ Meat"
+        "animals": "🥩​ Meat",
+        "spear": "🧔🏽​🔪 Hunter"
     },
     "meat": {
         "fire": "🥩 Steak",
