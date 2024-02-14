@@ -31,6 +31,10 @@
     {
         "water6": "💧 Water 7"
     },
+    "water7":
+    {
+        "water7": "💧 Water 8"
+    },
     "splash": {
         "earth": "💩 Mud"
     },
@@ -65,7 +69,8 @@
     },
     "volcano": {
         "fire": "🔥 Lava",
-        "steam": "🌋​ Erruption"
+        "steam": "🌋​ Erruption",
+        "human": "💀 Burned Soul"
     },
     "lava": {
         "water": "🗿 Obsidian"
@@ -128,7 +133,8 @@
     },
     "radioactiveearth": {
         "explosion": "☢️ Radioactive Nothing",
-        "cave": "🧪 Uranium"
+        "cave": "🧪 Uranium",
+        "nuke": "☢️🌍 Nuked Earth"
     },
     "earth": {
         "fire": "🌋​ Volcano",
@@ -144,7 +150,8 @@
     "mountain": {
         "explosion": "🏔️ Crater",
         "harderrain": "🏔️💧 Wet Mountain",
-        "mountain": "🏔️🏔️ Mount Everest"
+        "mountain": "🏔️🏔️ Mount Everest",
+        "human": "🥾 Hiking"
     },
     "crater": {
         "explosion": "🕳️ Hole"
@@ -158,13 +165,32 @@
         "wood": "⛏️ Pickaxe",
         "pickaxe": "🪨 Stone"
     },
+    "stone": {
+        "water": "💧🪨 Wet Stone",
+        "stone": "🪨🪨 Boulder",
+        "pickaxe": "🪨 Rock"
+    },
+    "pickaxe": {
+        "mountain": "​💛 Gold"
+    },
+    "gold": {
+        "gold": "​💛​💛 Gold Bar",
+        "money": "💰​ Rich"
+    },
+    "goldbar": {
+        "gold": "​💵​ Money"
+    },
+    "money": {
+        "gold": "​💵​ Moneier"
+    },
     "tree": {
         "wind": "🍃 Leaf",
         "tree": "🌲 Forest",
         "fire": "🏴 Dead Tree"
     },
     "leaf": {
-        "leaf": "🍃 Pile of Leaf"
+        "leaf": "🍃 Pile of Leaf",
+        "water": "💧🍃 Wet Leaf"
     }, 
     "pileof leaf": {
         "fire": "🔥🍃 Campfire"
@@ -196,7 +222,11 @@
         "water": "🧑‍🤝‍🧑 Human",
         "fire": "💀 Corpse",
         "radioactivity": "👽 Radioactive Life",
-        "forest": "🐾 Animals"
+        "forest": "🐾 Animals",
+        "life": "❤️ Living Life"
+    },
+    "livinglife": {
+        "livinglife": "❤️ The Life"
     },
     "human": {
         "human": "🧑‍🤝‍🧑🧑‍🤝‍🧑 Zivilisation",
@@ -208,7 +238,23 @@
         "water": "🧑‍🤝‍🧑💧 Wet Human",
         "nuke": "😈 Dictator",
         "boat": "👨‍✈️ Captain",
-        "dictator": "⛓️ Slave"
+        "dictator": "⛓️ Slave",
+        "goldbar": "🧑‍🤝‍🧑💛 Millionare"
+    },
+    "girl": {
+        "girl": "👧👧 Girls",
+        "life": "❤️ Reproduction"
+    }, 
+    "caveman": {
+        "animals": "🥩​ Meat"
+    },
+    "meat": {
+        "fire": "🥩 Steak",
+        "meat": "🥩 Buffet",
+        "water": "💧🥩 Wet Meat"
+    },
+    "corpse": {
+        "fire": "🌫️​ Ash"
     },
     "zivilisation": {
         "explosion": "💀 Gore",
@@ -217,5 +263,9 @@
     "society": {
         "explosion": "💀 Gore",
         "society": "🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑 Humanity"
+    },
+    "humanity": {
+        "explosion": "💀 Gore",
+        "humanity": "🧑‍🤝‍🧑 Generation"
     }
 }
