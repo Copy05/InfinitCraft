@@ -50,6 +50,19 @@
     {
         "water9": "💧 Water 10"
     },
+    "water10":
+    {
+        "water10": "💧 Water 20",
+        "water5": "💧 Water 25"
+    },
+    "water20":
+    {
+        "water20": "💧 Water 30"
+    },
+    "water30":
+    {
+        "water30": "💧 Water 50"
+    },
     "splash": {
         "earth": "💩 Mud"
     },
@@ -77,7 +90,8 @@
         "fire": "🔍 Lens"
     },
     "lens": {
-        "scientist": "🔬​ Microscope"
+        "scientist": "🔬​ Microscope",
+        "fire": "♨️ Inferno"
     },
     "swamp": {
         "earth": "💩 Mud"
@@ -86,7 +100,7 @@
         "water": "🧱 Hard Mud",
         "fire": "🧱 Clay",
         "flower": "💩 Dirt",
-        "farmer": "💩 Farmland"
+        "tractor": "💩 Farmland"
     },
     "farmland": {
         "tractor": "​​🥔 Potato",
@@ -137,7 +151,11 @@
     "cloud": {
         "water": "🌧️ Rain",
         "fire": "🔥☁️ Burning Cloud",
-        "electricity": "🌩️ Thunderstorm"
+        "electricity": "🌩️ Thunderstorm",
+        "cloud": "☁️☁️ Clouds"
+    },
+    "clouds": {
+        "earth": "🌤️ Sky"
     },
     "burningcloud": {
         "thunderstorm": "🔥☁️🌩️ Intense Thunderstorm Cloud"
@@ -147,6 +165,13 @@
         "water": "🌧️ Harder Rain",
         "fire": "🌈 Rainbow",
         "amazon": "📦🌲🌧️ Amazon Rain Forest"
+    },
+    "rainbow": {
+        "light": "☀️​ Sun",
+        "plant": "🍀​ Luck"
+    },
+    "sun": {
+        "sun": "♨️ Heat"
     },
     "fog": {
         "earth": "🌍🌫️ Foggy Earth"
@@ -160,16 +185,21 @@
         "air": "💨 Wind",
         "water": "🌊 Wave",
         "earth": "💨 Dust",
-        "wind": "💨 Tornado",
+        "wind": "🌪️ Tornado",
         "cloud": "🌧️ Rain",
         "uranium": "☢️ Radioactivity"
+    },
+    "tornado": {
+        "fish": "🐟🌪️ Fishnado",
+        "human":"🧑‍🤝‍🧑 Humanado"
     },
     "wind": {
         "wind": "💨 Harder Wind",
         "torch": "🪵 Wood"
     }, 
     "harderwind": {
-        "harderrain": "🌩️ Thunderstorm"
+        "harderrain": "🌩️ Thunderstorm",
+        "harderwind": "💨💨 Windstorm"
     },
     "thunderstorm": {
         "water": "⚡ Electricity"
@@ -244,6 +274,9 @@
         "explosion": "😈⛓️ Dictatorship",
         "money": "💸 Tax"
     },
+    "tax": {
+        "tax": "💸 Tax Tax"
+    },
     "plant": {
         "plant": "🌳 Tree",
         "leaf": "🌳 Bush"
@@ -292,6 +325,16 @@
     "richest": {
         "richest": "🤵🏻​​ Richard"
     },
+    "richard": {
+        "wisdom": "🧙🏼‍♂️​ Wizard"
+    },
+    "wizard": {
+        "love": "💓🤵🏻​ Rizzard",
+        "tornado": "🧙🏼‍♂️​ Wizard Of Oz"
+    },
+    "rizzard": {
+        "tornado": "💓🧙🏼‍♂️​ Rizzard Of Oz"
+    },
     "goldbar": {
         "gold": "​💵​ Money",
         "goldbar": "👑​ Midas"
@@ -303,7 +346,13 @@
     "tree": {
         "wind": "🍃 Leaf",
         "tree": "🌲 Forest",
-        "fire": "🏴 Dead Tree"
+        "fire": "🏴 Dead Tree",
+        "tractor": "🌳🍎 Fruit Tree"
+    },
+    "fruittree": {
+        "wind": "🍎 Fruits",
+        "fire": "🏴 Dead Fruit Tree",
+        "rain": "🌳🍎✨​ Fine Fruit Tree"
     },
     "forest": {
         "animals": "🐾 Wildlife",
@@ -360,7 +409,9 @@
     "house": {
         "house": "🏠 Appartement",
         "fire": "🔥🏠 Arson",
-        "light": "💡 Lightbulb"
+        "light": "💡 Lightbulb",
+        "science": "🥼 Lab",
+        "sky": "🏢​ Skyscrapper"
     },
     "flower": {
         "flower": "🌸 Garden",
@@ -379,6 +430,9 @@
         "forest": "🐾 Animals",
         "life": "❤️ Living Life",
         "ocean": "🐟 Fish"
+    },
+    "radioactivelife": {
+        "fire": "☢️💀 Radioactive Corpse"
     },
     "animals": {
         "spear": "🥩​ Meat",
@@ -469,11 +523,15 @@
     "number955": {
         "number955": "❓​ Number 966"
     },
+    "number966": {
+        "number955": "❓​ Number 977"
+    },
     "girl": {
         "girl": "👧👧 Girls",
         "life": "❤️ Reproduction",
         "family": "👧 Sister",
-        "boy": "❤️​ Love"
+        "boy": "❤️​ Love",
+        "pride": "👧👧 Lesbian"
     },
     "sister": {
         "brother": "💑​ Siblings"
