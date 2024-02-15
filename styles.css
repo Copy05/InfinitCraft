@@ -14,6 +14,10 @@ body, html {
     height: 100%;
 }
 
+body {
+    overflow-y: hidden;
+}
+
 #game-container {
     display: flex;
     height: 100vh;
@@ -38,7 +42,7 @@ body, html {
     left: 10px;
     font-size: 24px;
     font-weight: bold;
-    color: #333; /* Adjust color as needed */
+    color: #333;
 }
 
 .element {
@@ -77,9 +81,8 @@ body, html {
     color: #fff;
 }
 
-/* Add styles for the dragging effect */
 .dragging {
     position: absolute;
     pointer-events: none;
-    cursor: pointer; /* Change cursor to pointer */
+    cursor: pointer;
 }
