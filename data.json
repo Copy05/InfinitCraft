@@ -401,7 +401,7 @@
     "trump": {
         "wall": "🧱🏛️ Mexican Wall",
         "house": "🏛️ The White House",
-        "tree": "🌳🤡 Infamous Incident"
+        "tree": "🌳🤡 Infamous Treehouse"
     },
     "thewhite house": {
         "explosion": "😈⛓️ Dictatorship",
@@ -409,7 +409,8 @@
     },
     "tax": {
         "tax": "💸 Tax Tax",
-        "america": "💵🇺🇸 IRS"
+        "america": "💵🇺🇸 IRS",
+        "taxtax": "💵💵💵 Financial Suffering"
     },
     "plant": {
         "plant": "🌳 Tree",
@@ -445,6 +446,9 @@
     },
     "metal": {
         "heat": "🤍 Iron"
+    },
+    "iron": {
+        "water": "🚰 Rust"
     },
     "pickaxe": {
         "mountain": "​💛 Gold"
@@ -726,10 +730,10 @@
         "love": "👩‍❤️‍💋‍👨 Siblings Love"
     },
     "siblingslove": {
-        "love": "👩‍❤️‍💋‍👨 Incest"
+        "love": "🤗❤️ Family Bond"
     },
-    "incest": {
-        "love": "👩‍❤️‍💋‍👨 Too Close Siblings"
+    "familybond": {
+        "love": "👩‍❤️‍💋‍👨 Incest"
     },
     "caveman": {
         "animals": "🥩​ Meat",
@@ -769,6 +773,9 @@
         "rainbow": "🏳️‍🌈​ Pride",
         "fire": "❤️‍🔥 Burning Love",
         "space": "💔 Divorse"
+    },
+    "lovinglove": {
+        "love": "💗​ Romance"
     },
     "gay": {
         "gay": "🏳️‍🌈​ Double Gay",
