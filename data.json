@@ -31,7 +31,8 @@
     "water5":
     {
         "water": "🌊 Flood",
-        "water5": "💧 Water 6"
+        "water5": "💧 Water 6",
+        "water100": "💧 Water 519"
     },
     "water6":
     {
@@ -106,6 +107,8 @@
     "water100":
     {
         "water10": "💧 Water 1000",
+        "water20": "💧 Water 122",
+        "water30": "💧 Water 123",
         "water100": "💧 Water 300",
         "water200": "💧 Water 400",
         "water300": "💧 Water 500",
@@ -164,6 +167,42 @@
         "water300": "💧 Water 2100",
         "water700": "💧 Water 2500",
         "water1700": "💧 Water 3500"
+    },
+    "water3500":
+    {
+        "water10": "💧 Water 4500",
+        "water3500": "💧 Water 7650"
+    },
+    "water7650":
+    {
+        "water10": "💧 Water 7800",
+        "water7650": "💧 Water 14255"
+    },
+    "water14255":
+    {
+        "water10": "💧 Water 15600",
+        "water14255": "💧 Water 29699"
+    },
+    "water29699":
+    {
+        "water10": "💧 Water 30000",
+        "water29699": "💧 Water 69696"
+    },
+    "water69696":
+    {
+        "water69696": "💧 Water 125433"
+    },
+    "water125433":
+    {
+        "water125433": "💧 Water 345066"
+    },
+    "water345066":
+    {
+        "water345066": "💧 Water 788888"
+    },
+    "water788888":
+    {
+        "water788888": "💧 Water 1678190"
     },
     "splash": {
         "earth": "💩 Mud"
@@ -578,6 +617,9 @@
     "radioactivelife": {
         "fire": "☢️💀 Radioactive Corpse"
     },
+    "radioactivecorpse": {
+        "time": "☢️🧑‍🤝‍🧑 Human Abormination"
+    },
     "animals": {
         "spear": "🥩​ Meat",
         "house": "🏠🐾 Pet"
@@ -618,7 +660,7 @@
         "fish": "👨‍✈️🐟 Captain Iglo",
         "caveman": "👨‍✈️🐻🗿🔥 Captain Caveman",
         "midas": "👨‍✈️👑 Captain Midas",
-        "water50": "👨‍✈️💧 Captain Water 50",
+        "water50": "👨‍✈️💧 Captain Water50",
         "thelife": "👨‍✈️❤️ Captain The Life",
         "wikipediaeditor": "👮🏻‍♀️📚​🌐 Content Moderator"
     },
