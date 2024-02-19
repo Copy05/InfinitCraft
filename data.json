@@ -204,6 +204,10 @@
     {
         "water788888": "💧 Water 1678190"
     },
+    "water1678190":
+    {
+        "water1678190": "💧 Water 3356404"
+    },
     "splash": {
         "earth": "💩 Mud"
     },
@@ -235,6 +239,9 @@
         "glass": "🪟 Window",
         "fire": "🔍 Lens",
         "sand": "⌛ Time"
+    },
+    "window": {
+        "window": "🪟 Big Window"
     },
     "time": {
         "sun": "🌑​ Moon"
@@ -306,7 +313,8 @@
         "cloud": "☁️☁️ Clouds"
     },
     "clouds": {
-        "earth": "🌤️ Sky"
+        "earth": "🌤️ Sky",
+        "fire": "🔥☁️☁️ Burning Clouds"
     },
     "burningcloud": {
         "thunderstorm": "🔥☁️🌩️ Intense Thunderstorm Cloud"
@@ -680,13 +688,21 @@
         "water50": "👨‍✈️💧 Captain Water50",
         "thelife": "👨‍✈️❤️ Captain The Life",
         "wikipediaeditor": "👮🏻‍♀️📚​🌐 Content Moderator",
-        "samsunggalaxy": "👨‍✈️📱 Captain Samsung Galaxy"
+        "samsunggalaxy": "👨‍✈️📱 Captain Samsung Galaxy",
+        "dickpedia": "👨‍✈️🍆📚​🌐 Captain Dickmedia"
     },
     "wikipediaeditor": {
         "wikipediaadministrator": "📚​🌐🏛️ Wikimedia Foundation"
     },
     "wikipedia": {
-        "gayfish": "​🤣​ South Park Episode"
+        "gayfish": "​🤣​ South Park Episode",
+        "dick": "🍆📚​🌐 Dickpedia"
+    },
+    "wikimediafoundation": {
+        "dickpedia": "🍆📚​🌐🏛️ Dickmedia Foundation"
+    },
+    "dickpedia": {
+        "innovation": "👨​👨​ Smosh"
     },
     "professor": {
         "life": "🧬​​ Biology",
@@ -706,7 +722,8 @@
     },
     "technology": {
         "technology": "💻 Computer",
-        "galaxy": "📱 Samsung Galaxy"
+        "galaxy": "📱 Samsung Galaxy",
+        "window": "💻🪟 Windows"
     },
     "computer": {
         "steam": "🎮​ Gaming",
@@ -765,6 +782,9 @@
     "number999": {
         "number999": "❓​ Number 1000"
     },
+    "number1000": {
+        "number1000": "❓​ Number 3000"
+    },
     "girl": {
         "girl": "👧👧 Girls",
         "life": "❤️ Reproduction",
@@ -783,6 +803,12 @@
         "girl": "❤️​ Love",
         "pride": "🏳️‍🌈​ Gay",
         "time": "👦 Man"
+    },
+    "man": {
+        "meat": "🍆 Dick"
+    },
+    "dick": {
+        "dick": "🍆 Penis"
     },
     "brother": {
         "sister": "💑​ Siblings"
@@ -822,7 +848,8 @@
         "humanity": "🧑‍🤝‍🧑 Generation"
     },
     "generation": {
-        "computer": "🧑‍🤝‍🧑📱 GenZ"
+        "computer": "🧑‍🤝‍🧑📱 GenZ",
+        "samsunggalaxy": "🧑‍🤝‍🧑📱 GenZ"
     },
     "knowledge": {
         "knowledge": "🧠 Wisdom",
@@ -843,6 +870,8 @@
         "fish": "🐟🏳️‍🌈 Gay Fish",
         "girl": "👧👧 Lesbian",
         "captaingay": "👨‍✈️🏳️‍🌈 Captain Gay Gay",
+        "captaingay gay": "👨‍✈️🏳️‍🌈 Captain Gay Gay Gay",
+        "captaingay gay gay": "👨‍✈️🏳️‍🌈 Captain Gay Gay Gay Gay",
         "gayfish": "🤵🏿 Kanye West"
     }
 }
