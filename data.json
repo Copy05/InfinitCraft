@@ -290,7 +290,8 @@
     "steam": {
         "water": "💧💨 Hydrogen",
         "electricity": "🎮 Steam",
-        "fire": "🏎️​ Engine"
+        "fire": "🏎️​ Engine",
+        "plant": "🍵 Tea"
     },
     "engine": {
         "mud": "🚜 Tractor"
@@ -318,11 +319,12 @@
     },
     "rainbow": {
         "light": "☀️​ Sun",
-        "plant": "🍀​ Luck"
+        "plant": "🍀​ Luck",
+        "park": "🧚‍♀️ Fairy"
     },
     "sun": {
         "sun": "♨️ Heat",
-        "flower": "🌸☀️ Blooming Flower"
+        "flower": "🌻 Sunflower"
     },
     "heat": {
         "heat": "♨️♨️ Heater",
@@ -397,13 +399,18 @@
         "earth": "🏔️​ Mountain",
         "sand": "🏝️​ Island",
         "ocean": "🏝️​ Island",
-        "dust": "🪐 Planet"
+        "dust": "🪐 Planet",
+        "tea": "🍵 Teapod"
     },
     "planet": {
         "planet": "🪐🪐 Solar System"
     },
     "solarsystem": {
-        "solarsystem": "🌌 Space"
+        "solarsystem": "🌌 Space",
+        "planet": "⭐️ Star"
+    },
+    "star": {
+        "star": "🌌 Galaxy"
     },
     "space": {
         "space": "🌌 Universe"
@@ -413,20 +420,25 @@
         "island": "🌍 Continent",
         "continent": "🌍 New Continent"
     },
+    "hawaii": {
+        "water": "🏄‍♂️ Surf"
+    },
     "continent": {
         "ocean": "🇺🇸​ America",
         "earth": "🌄 Land",
         "mountain": "🌍 Asia",
         "austria": "🌍 Europe",
         "euro": "🌍 Europe",
-        "captainiglo": "🇬🇧 United Kingdom"
+        "captainiglo": "🇬🇧 United Kingdom",
+        "tea": "🇬🇧 United Kingdom"
     },
     "land": {
         "city": "🌍 Country"
     },
     "country": {
         "america": "🇺🇸 United States",
-        "mountain": "🇦🇹 Austria"
+        "mountain": "🇦🇹 Austria",
+        "tea": "🇬🇧 England"
     },
     "asia": {
         "sushi": "🗾 Japan"
@@ -599,7 +611,11 @@
     "flower": {
         "flower": "🌸 Garden",
         "fire": "🏴 Burned Flower",
-        "love": "🌹 Rose"
+        "love": "🌹 Rose",
+        "moon": "🪻 Moonflower"
+    },
+    "garden": {
+        "garden": "🏞 Park"
     },
     "dirt": {
         "flower": "❤️ Life",
@@ -657,12 +673,14 @@
         "wikipedia": "👨‍✈️📚​🌐 Wikipedia Administrator",
         "the9-11": "💥 Bin Laden",
         "gay": "👨‍✈️🏳️‍🌈 Captain Gay",
+        "gayfish": "👨‍✈️🏳️‍🌈 Captain Gay Fish",
         "fish": "👨‍✈️🐟 Captain Iglo",
         "caveman": "👨‍✈️🐻🗿🔥 Captain Caveman",
         "midas": "👨‍✈️👑 Captain Midas",
         "water50": "👨‍✈️💧 Captain Water50",
         "thelife": "👨‍✈️❤️ Captain The Life",
-        "wikipediaeditor": "👮🏻‍♀️📚​🌐 Content Moderator"
+        "wikipediaeditor": "👮🏻‍♀️📚​🌐 Content Moderator",
+        "samsunggalaxy": "👨‍✈️📱 Captain Samsung Galaxy"
     },
     "wikipediaeditor": {
         "wikipediaadministrator": "📚​🌐🏛️ Wikimedia Foundation"
@@ -687,7 +705,8 @@
         "electricity": "📱​ Technology"
     },
     "technology": {
-        "technology": "💻 Computer"
+        "technology": "💻 Computer",
+        "galaxy": "📱 Samsung Galaxy"
     },
     "computer": {
         "steam": "🎮​ Gaming",
