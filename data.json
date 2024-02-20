@@ -26,7 +26,9 @@
     "water4":
     {
         "water4": "💧 Water 5",
-        "water6": "💧 Water 10"
+        "water6": "💧 Water 10",
+        "water10": "💧 Water 16",
+        "water16": "💧 Water 22"
     },
     "water5":
     {
@@ -77,6 +79,8 @@
     },
     "water30":
     {
+        "water10": "💧 Water 41",
+        "water20": "💧 Water 53",
         "water30": "💧 Water 50",
         "water50": "💧 Water 80",
         "water70": "💧 Water 101",
@@ -208,6 +212,26 @@
     {
         "water1678190": "💧 Water 3356404"
     },
+    "water3356404":
+    {
+        "water3356404": "💧 Water 6712808"
+    },
+    "water6712808":
+    {
+        "water6712808": "💧 Water 13425616"
+    },
+    "water13425616":
+    {
+        "water13425616": "💧 Water 26851232"
+    },
+    "water26851232":
+    {
+        "water26851232": "💧 Water 53702464"
+    },
+    "water53702464":
+    {
+        "water53702464": "💧 Water 107404928"
+    },
     "splash": {
         "earth": "💩 Mud"
     },
@@ -284,7 +308,8 @@
         "fire": "🔥 Flame"
     },
     "flame": {
-        "water": "💧 Extinguished Flame"
+        "water": "💧 Extinguished Flame",
+        "flame": "🔥 Burning Flame"
     },
     "volcano": {
         "fire": "🔥 Lava",
@@ -301,7 +326,11 @@
         "plant": "🍵 Tea"
     },
     "engine": {
-        "mud": "🚜 Tractor"
+        "mud": "🚜 Tractor",
+        "metal": "🚗​ Car"
+    },
+    "car": {
+        "engine": "🏎️​ Kart"
     },
     "hydrogen": {
         "fire": "☁️ Cloud"
@@ -418,7 +447,9 @@
         "planet": "⭐️ Star"
     },
     "star": {
-        "star": "🌌 Galaxy"
+        "star": "🌌 Galaxy",
+        "girl": "♀ Venus",
+        "woman": "♀ Venus"
     },
     "space": {
         "space": "🌌 Universe"
@@ -446,7 +477,8 @@
     "country": {
         "america": "🇺🇸 United States",
         "mountain": "🇦🇹 Austria",
-        "tea": "🇬🇧 England"
+        "tea": "🇬🇧 England",
+        "history": "🇬🇷​ Greece"
     },
     "asia": {
         "sushi": "🗾 Japan"
@@ -482,7 +514,8 @@
         "explosion": "🏔️ Crater",
         "harderrain": "🏔️💧 Wet Mountain",
         "mountain": "🏔️🏔️ Mount Everest",
-        "human": "🥾 Hiking"
+        "human": "🥾 Hiking",
+        "water": "🏞️ Waterfall"
     },
     "crater": {
         "explosion": "🕳️ Hole"
@@ -691,6 +724,14 @@
         "samsunggalaxy": "👨‍✈️📱 Captain Samsung Galaxy",
         "dickpedia": "👨‍✈️🍆📚​🌐 Captain Dickmedia"
     },
+    "kart": {
+        "captainkart50": "🏎️ Captain Water50 Kart",
+        "gayfish": "🏎️​ Gay Fish Kart",
+        "wikipedia": "📚​🌐🏎️​ The Wikipedia Kart Article",
+        "dickpedia": "📚​🌐🏎️​ The Dickpedia Kart",
+        "thelife": "​🚄​ Need For Speed",
+        "needfor speed": "🚄🏎️ Need for Speed Kart"
+    },
     "wikipediaeditor": {
         "wikipediaadministrator": "📚​🌐🏛️ Wikimedia Foundation"
     },
@@ -785,6 +826,15 @@
     "number1000": {
         "number1000": "❓​ Number 3000"
     },
+    "number3000": {
+        "number3000": "❓​ Number 6000"
+    },
+    "number6000": {
+        "number6000": "❓​ Number 10000"
+    },
+    "number10000": {
+        "number10000": "❓​ Number 21000"
+    },
     "girl": {
         "girl": "👧👧 Girls",
         "life": "❤️ Reproduction",
@@ -792,7 +842,9 @@
         "boy": "❤️​ Love",
         "pride": "👧👧 Lesbian",
         "rose": "👧 Girlfriend",
-        "time": "👧 Woman"
+        "time": "👧 Woman",
+        "dick": "💋​ Slut",
+        "penis": "💋​ Slut"
     },
     "sister": {
         "brother": "💑​ Siblings"
@@ -806,6 +858,14 @@
     },
     "man": {
         "meat": "🍆 Dick"
+    },
+    "woman": {
+        "dick": "💋​ Slut",
+        "penis": "💋​ Slut",
+        "pride": "👧👧 Lesbian",
+        "life": "❤️ Reproduction",
+        "man": "❤️​ Love",
+        "rose": "👧 Girlfriend"
     },
     "dick": {
         "dick": "🍆 Penis"
@@ -872,6 +932,7 @@
         "captaingay": "👨‍✈️🏳️‍🌈 Captain Gay Gay",
         "captaingay gay": "👨‍✈️🏳️‍🌈 Captain Gay Gay Gay",
         "captaingay gay gay": "👨‍✈️🏳️‍🌈 Captain Gay Gay Gay Gay",
+        "captaingay gay gay gay": "👨‍✈️🏳️‍🌈 Captain Gay Gay Gay Gay Gay",
         "gayfish": "🤵🏿 Kanye West"
     }
 }
